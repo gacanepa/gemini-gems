@@ -62,3 +62,8 @@ AI is moving fast, and the best prompts are often discovered by experimentation 
 These Gems are community-contributed and provided "as is." Always review the system instructions before running them, especially when dealing with sensitive data or complex codebases.
 
 ---
+
+## 📄 License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+---
